@@ -2,6 +2,8 @@
 
 A 3D model of a Rolleiflex twin-lens reflex camera, modelled, textured and rendered in Blender as a university project (MS Visual and Spatial Computing, KFUPM).
 
+**[View the model in 3D on Sketchfab](https://skfb.ly/pQtxZ)**
+
 ![Hero render](renders/hero.png)
 
 ## Renders
